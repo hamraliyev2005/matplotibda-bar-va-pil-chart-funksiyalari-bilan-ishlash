@@ -1,0 +1,1 @@
+# matplotibda-bar-va-pil-chart-funksiyalari-bilan-ishlash
